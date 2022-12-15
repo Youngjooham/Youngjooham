@@ -1,6 +1,6 @@
 <h2> Hey! 👋 </h2>  
 
-![Github profile readme](https://user-images.githubusercontent.com/100440331/207766665-e4625d84-93a2-48f4-947c-61e1046f8e57.jpg "width"=50%)
+![Github Readme picture](https://user-images.githubusercontent.com/100440331/207767253-35cd2441-db16-4271-95bd-550bf1538184.jpg)
 
 
 I'm Young Joo Ham! I'm a 27 year old front-end development student located in Moss, Norway. 
