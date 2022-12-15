@@ -1,7 +1,5 @@
 <h2> Hey! 👋 </h2>  
 
-
-
 I'm Young Joo Ham!
 - <i>Currently:</i> Front-end development student at Noroff 
 - <i>Previously:</i> Bachelor in economics and administration at University of South-Eastern Norway 
