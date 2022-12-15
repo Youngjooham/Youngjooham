@@ -1,4 +1,7 @@
-- 👋 Hi, I’m @Youngjooham
+- Hey! 👋  
+- I'm Young Joo Ham!
+- 
+- I’m @Youngjooham
 - 👀 I’m interested in HTML, CSS and JavaScript
 - 🌱 I’m currently learning frontend development
 - 💞️ I’m looking to collaborate on ...
