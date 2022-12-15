@@ -1,5 +1,7 @@
 <h2> Hey! 👋 </h2>  
 
+![Worldkitchen homepage](https://user-images.githubusercontent.com/100440331/207763492-23a868cf-b8db-4158-9f9d-3b9fa411fff2.jpg)
+
 I'm Young Joo Ham! I'm a 27 year old front-end development student located in Moss, Norway. 
 I am very passionate about learning new stuff all the time, and get better as a developer! 
 - <i>Currently:</i> Front-end development student at Noroff 
