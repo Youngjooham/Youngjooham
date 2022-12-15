@@ -1,16 +1,15 @@
-- Hey! 👋  
-- I'm Young Joo Ham!
-  - Currently: Front-end development student at Noroff 
-  I'm Currently Learning
+<h2> Hey! 👋 </h2>  
 
-- I’m @Youngjooham
-- 👀 I’m interested in HTML, CSS and JavaScript
-- 🌱 I’m currently learning frontend development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+I'm Young Joo Ham!
+- <i>Currently:</i> Front-end development student at Noroff 
+- <i>Previously:</i> Bachelor in economics and administration at University of South-Eastern Norway 
 
-Test test
 
+<h2> I'm Currently Learning </h2>
+
+__Noroff School of Technology and Digital Media__
+
+ - CSS, HTML, JavaScript
 
 <!---
 Youngjooham/Youngjooham is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
