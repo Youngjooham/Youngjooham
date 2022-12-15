@@ -1,6 +1,8 @@
 - Hey! 👋  
 - I'm Young Joo Ham!
-- 
+  - Currently: Front-end development student at Noroff 
+  I'm Currently Learning
+
 - I’m @Youngjooham
 - 👀 I’m interested in HTML, CSS and JavaScript
 - 🌱 I’m currently learning frontend development
