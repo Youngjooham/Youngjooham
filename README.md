@@ -17,6 +17,8 @@ __Noroff School of Technology and Digital Media__
  - CSS
  - HTML
  - JavaScript
+ - React
+ - Bootstrap
 
 <!---
 Youngjooham/Youngjooham is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
