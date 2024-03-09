@@ -5,7 +5,9 @@
 
 
 I'm Young Joo Ham! I'm a 28 year old front-end development student located in Moss, Norway. 
-I am very passionate about learning new stuff all the time, and get better as a developer! 
+I am very passionate about learning new stuff all the time, and get better as a developer!
+I am interested in pretty looking and responsive design and keeping the codes clean.
+On my free time, i love to watch football and play video games. 
 - <i>Currently:</i> Front-end development student at Noroff 
 - <i>Previously:</i> Bachelor in economics and administration at University of South-Eastern Norway 
 
